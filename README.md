@@ -1,2 +1,2 @@
-# git_exam
-This repo will be used in an exam used to test my github skills
+I am editing the README file. Adding some more details about the
+ project description.
